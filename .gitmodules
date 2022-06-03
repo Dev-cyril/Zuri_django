@@ -1,0 +1,3 @@
+[submodule "cyril_idu"]
+	path = cyril_idu
+	url = https://github.com/Dev-cyril/Zuri_django.git
